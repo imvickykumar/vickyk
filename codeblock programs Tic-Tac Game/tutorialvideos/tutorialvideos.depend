@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508868752 source:c:\users\vicky\desktop\codeblock programs\tutorialvideos\main.cpp
+	<iostream>
+	<stdlib.h>
+
